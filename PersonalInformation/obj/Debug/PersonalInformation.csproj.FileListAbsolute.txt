@@ -1,0 +1,6 @@
+E:\course related lecture\Basis-SIEP_Dotnet-01\29 Jan 2019_1st day\PersonalInformation\PersonalInformation\bin\Debug\PersonalInformation.exe.config
+E:\course related lecture\Basis-SIEP_Dotnet-01\29 Jan 2019_1st day\PersonalInformation\PersonalInformation\bin\Debug\PersonalInformation.exe
+E:\course related lecture\Basis-SIEP_Dotnet-01\29 Jan 2019_1st day\PersonalInformation\PersonalInformation\bin\Debug\PersonalInformation.pdb
+E:\course related lecture\Basis-SIEP_Dotnet-01\29 Jan 2019_1st day\PersonalInformation\PersonalInformation\obj\Debug\PersonalInformation.csprojResolveAssemblyReference.cache
+E:\course related lecture\Basis-SIEP_Dotnet-01\29 Jan 2019_1st day\PersonalInformation\PersonalInformation\obj\Debug\PersonalInformation.exe
+E:\course related lecture\Basis-SIEP_Dotnet-01\29 Jan 2019_1st day\PersonalInformation\PersonalInformation\obj\Debug\PersonalInformation.pdb
